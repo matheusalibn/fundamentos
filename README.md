@@ -1,2 +1,2 @@
 # fundamentos
-Alguns projetos trabalhando fundamentos que estou aprendendo
+Alguns projetos usandos fundamentos que estou aprendendo
